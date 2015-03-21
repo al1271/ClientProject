@@ -4,19 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Welcome to ______ choose your poison</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<ul class="siteDirectory">
+    <li class="computerRepair"><a href="computerRepair.html"><img class="compImg" src="/img/apple-II-computer-graphic.jpg"></a> </li>
+    <li id="graph" class="graphics"><a href="graphics.html"><img class="graphImg" src="/img/computer-repair-2.jpg"></a> </li>
+</ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

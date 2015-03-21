@@ -234,3 +234,22 @@
         }
     }
 }
+
+.compImg, .graphImg{
+  width: 250px;
+  height: 250px;
+}
+
+.siteDirectory{
+  padding-left: 120px;
+}
+
+.siteDirectory > li {
+  list-style-type: none;
+  display: inline;
+}
+#graph{
+  padding-right: 500px;
+}
+
+
