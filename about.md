@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I've been a skilled pc technician for a solid 12 years. My goal to helping you with you computer
+issues is to find the issue and try to save you money without having to replace your current PC.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm locally in the Winter Park, FL area and 20 minutes North Orlando and South of Altamonte Springs, FL.

@@ -228,7 +228,6 @@
 
     h4 {
         font-size: 20px;
-
         @include media-query($on-laptop) {
             font-size: 18px;
         }
@@ -236,12 +235,12 @@
 }
 
 .compImg, .graphImg{
-  width: 250px;
-  height: 250px;
+  width: 30%;
+  height: 30%;
 }
 
 .siteDirectory{
-  padding-left: 120px;
+  padding-left: 12%;
 }
 
 .siteDirectory > li {

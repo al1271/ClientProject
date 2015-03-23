@@ -1,10 +1,10 @@
 # Site settings
-title: _________
-email: your-email@domain.com
+title: Davis Rodriguez
+email: davis23pr@yahoo.com
 description: > # This is a site for either Graphics or computer repair if you require any of these services either go click the appropriate site or contact davis using the information givin.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: ______
+phone_number: (321)316-7202
 github_username:  al1271
 
 # Build settings
