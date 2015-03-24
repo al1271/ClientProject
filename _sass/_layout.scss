@@ -324,9 +324,9 @@ $text-colour: #c7dfff;
 .group:after { clear:both;}
 .group { zoom:1; /* For IE 6/7 */ }
 /*  GRID OF THREE  */
-.span_3_of_3 { width: 10%; }
-.span_2_of_3 { width: 10%; }
-.span_1_of_3 { width: 10%; }
+.span_3_of_3 { width: 25%; float:left; }
+.span_2_of_3 { width: 10%; float:left; }
+.span_1_of_3 { width: 10%; float:left; }
 
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
