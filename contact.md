@@ -3,7 +3,7 @@ layout: default
 title: Contact
 permalink: contact/
 ---
-<ul>
+<ul id="contactList">
 <li>Contact Me</li>
 <li>Davis Rodriguez</li>
 
