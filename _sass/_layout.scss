@@ -1,9 +1,16 @@
+$orange: #e85e3b;
+$green: #1eb444;
+$red: #e83232;
+$black: #2c2c2c;
+$blue: #053965;
+$text-colour: #c7dfff;
+
+
 /**
  * Site header
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -19,7 +26,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $text-colour;
     }
 }
 
@@ -32,7 +39,8 @@
     }
 
     .page-link {
-        color: $text-color;
+
+        color: $text-colour;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -45,7 +53,7 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: $black;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
@@ -92,11 +100,12 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
 .footer-heading {
+
+    width:5%;
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
 }
@@ -250,5 +259,58 @@
 #graph{
   padding-right: 500px;
 }
+#logo{
+  width: 50%;
+  height:50%;
+}
 
+#call{
+  margin:0;
+}
+/*  SECTIONS  */
+.section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+
+#led{
+  padding-left: 5%;
+  width:75%;
+  vertical-align: middle;
+  padding-bottom: 10%;
+}
+
+/*  COLUMN SETUP  */
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+/*  GRID OF TWO  */
+.span_2_of_2 {
+  width: 100%;
+}
+.span_1_of_2 {
+  width: 49.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+  .col {
+    margin: 1% 0 1% 0%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .span_2_of_2, .span_1_of_2 { width: 100%; }
+}
 

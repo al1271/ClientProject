@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Computer Repair
+permalink: /computerRepair/
 ---
 
 <div class="home">
@@ -28,7 +30,7 @@ layout: default
         <li>Network Printer & File Sharing Setup</li>
     </ul>
 
-    <p>For more information on pricing or information in general contact me at ____.</p>
+    <p>For more information on pricing and/or information in general contact me at <a href="tel:{{ site.phone_number }}">(321)316-7202</p>
 
 
 </div>

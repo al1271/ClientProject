@@ -1,3 +1,10 @@
+$orange: #e85e3b;
+$green: #1eb444;
+$red: #e83232;
+$black: #2c2c2c;
+$blue: #053965;
+$text-colour: #c7dfff;
+
 /**
  * Reset some basic elements
  */
@@ -18,8 +25,8 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+    color: $text-colour;
+    background-color: $black;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -93,11 +100,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 5%);
     }
 
     &:hover {
-        color: $text-color;
+        color: $orange;
         text-decoration: underline;
     }
 }
@@ -202,3 +209,5 @@ pre {
         }
     }
 }
+
+
