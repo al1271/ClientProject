@@ -3,9 +3,13 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
+<ul>
+<li>Contact Me</li>
+<li>Davis Rodriguez</li>
 
-Contact Me
-Davis Rodriguez
-davis23pr@yahoo.com
-(321) 316-7202
-Winter Park, FL
+<li>davis23pr@yahoo.com</li>
+
+<li>(321) 316-7202</li>
+
+<li>Winter Park, FL</li>
+</ul>
