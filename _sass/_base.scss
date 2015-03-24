@@ -100,7 +100,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, %);
+        color: darken($brand-color, 5%);
     }
 
     &:hover {
