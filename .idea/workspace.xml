@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48ea263e-c29b-4733-8f3d-70a963b52a5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/computerRepair.md" afterPath="$PROJECT_DIR$/computerRepair.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ClientProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/computerRepair.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.65753424" vertical-offset="0" max-vertical-offset="730">
-              <caret line="32" column="133" selection-start-line="32" selection-start-column="133" selection-end-line="32" selection-end-column="133" />
+              <caret line="32" column="135" selection-start-line="32" selection-start-column="135" selection-end-line="32" selection-end-column="135" />
               <folding />
             </state>
           </provider>
@@ -733,7 +734,7 @@
     <entry file="file://$PROJECT_DIR$/computerRepair.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65753424" vertical-offset="0" max-vertical-offset="730">
-          <caret line="32" column="133" selection-start-line="32" selection-start-column="133" selection-end-line="32" selection-end-column="133" />
+          <caret line="32" column="135" selection-start-line="32" selection-start-column="135" selection-end-line="32" selection-end-column="135" />
           <folding />
         </state>
       </provider>
