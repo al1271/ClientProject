@@ -30,7 +30,7 @@ permalink: /computerRepair/
         <li>Network Printer & File Sharing Setup</li>
     </ul>
 
-    <p>For more information on pricing and/or information in general call me at <a href="tel:{{ site.phone_number }}">(321)316-7202 or email me at <a href="mailto:davis23pr@yahoo.com">davis23pr@yahoo.com</a></p>
+    <p>For more information on pricing and/or information in general call me at <a href="tel:{{ site.phone_number }}">(321)316-7202/><a href="mailto:davis23pr@yahoo.com">davis23pr@yahoo.com</a></p>
 
 
 </div>
