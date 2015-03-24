@@ -31,4 +31,5 @@ permalink: /computerRepair/
     </ul>
 
     <p>For more information on pricing and/or information in general call me at <a href="tel:{{ site.phone_number }}">(321)316-7202</p>
+    <p> or email me at <a href="mailto:davis23pr@yahoo.com">davis23pr@yahoo.com</a></p
 </div>
