@@ -14,36 +14,44 @@ permalink: contact/
     </ul>
 	</div>
 	<div class="col span_1_of_2">
-	<table>
+	<table3>
     	<tr>
-    		<td>8:00am</td>
-    		<td>8:00pm</td>
-    	</tr>
-    	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    	</tr>
-    	<tr>
+    		<td>Open</td>
     		<td>Table Cell</td>
     		<td>Table Cell</td>
     	</tr>
     	<tr>
     		<td>Table Cell</td>
     		<td>Table Cell</td>
-    	</tr>
-    	<tr>
-    		<td>Table Cell</td>
     		<td>Table Cell</td>
     	</tr>
     	<tr>
     		<td>Table Cell</td>
     		<td>Table Cell</td>
+    		<td>Table Cell</td>
     	</tr>
     	<tr>
+    		<td>Table Cell</td>
+    		<td>Table Cell</td>
+    		<td>Table Cell</td>
+    	</tr>
+    	<tr>
+    		<td>Table Cell</td>
+    		<td>Table Cell</td>
+    		<td>Table Cell</td>
+    	</tr>
+    	<tr>
+    		<td>Table Cell</td>
+    		<td>Table Cell</td>
+    		<td>Table Cell</td>
+    	</tr>
+    	<tr>
+    		<td>Table Cell</td>
     		<td>Table Cell</td>
     		<td>Table Cell</td>
     	</tr>
     </table>
+
 
 	</div>
 </div>
