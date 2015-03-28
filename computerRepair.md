@@ -27,7 +27,6 @@ permalink: /computerRepair/
 </div>
 <h2>Small business Networking</h2>
     <ul class="repairRates">
-    <h1>S   ervices<h1>
         <li>Windows Server setup</li>
         <li>Client PC Setup</li>
         <li>Wire Run/Wall Jack Installs</li>
