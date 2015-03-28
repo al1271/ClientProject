@@ -16,39 +16,39 @@ permalink: contact/
 	<div class="col span_1_of_2">
 	<table>
     	<tr>
+    		<td>Hours</td>
     		<td>Open</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Close</td>
     	</tr>
     	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Monday</td>
+    		<td>8:00 am</td>
+    		<td>8:00 pm</td>
     	</tr>
     	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Tuesday</td>
+    		<td>8:00 am</td>
+    		<td>8:00 pm</td>
     	</tr>
     	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Wednesday</td>
+    		<td>8:00 am</td>
+    		<td>8:00 pm</td>
     	</tr>
     	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Thursday</td>
+    		<td>8:00 am</td>
+    		<td>8:00 pm</td>
     	</tr>
     	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Friday</td>
+    		<td>9:00 am</td>
+    		<td>5:00 pm</td>
     	</tr>
     	<tr>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
-    		<td>Table Cell</td>
+    		<td>Sat-Sun</td>
+    		<td>12 pm</td>
+    		<td>5 pm</td>
     	</tr>
     </table>
 
