@@ -16,7 +16,7 @@ permalink: contact/
 	<div class="col span_1_of_2">
 	<table>
     	<tr>
-    		<td>Table Cell</td>
+    		<td>Open</td>
     		<td>Table Cell</td>
     		<td>Table Cell</td>
     	</tr>
