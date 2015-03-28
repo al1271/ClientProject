@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "scss and webstorm problems"
-date:   2015-03-05 15:34:47
+date:   2015-03-02 15:34:47
 categories: jekyll update
 siteVar: test_class
 ---

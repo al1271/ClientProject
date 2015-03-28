@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My problems with file permission"
-date:   2015-03-03 15:34:47
+date:   2015-03-05 15:34:47
 categories: jekyll update
 siteVar: test_class
 ---
