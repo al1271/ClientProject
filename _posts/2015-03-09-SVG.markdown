@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "SVGs are neat"
+date:   2015-03-24 15:34:47
+categories: jekyll update
+siteVar: test_class
+---
+
+SVGs are scary. not really they just seem scary once you strip away all the unneeded code it looks simple unless you have thousands of shapes in that case if you want to change something good luck.
+
