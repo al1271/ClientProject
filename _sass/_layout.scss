@@ -286,6 +286,15 @@ $text-colour: #c7dfff;
   list-style-type: none;
 }
 
+table{
+  border: 3px;
+}
+
+tr{
+  border: 2px;
+}
+
+
 /*  COLUMN SETUP  */
 .col {
   display: block;
