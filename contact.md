@@ -14,9 +14,9 @@ permalink: contact/
     </ul>
 	</div>
 	<div class="col span_1_of_2">
-	<table3>
+	<table>
     	<tr>
-    		<td>Open</td>
+    		<td>Table Cell</td>
     		<td>Table Cell</td>
     		<td>Table Cell</td>
     	</tr>
