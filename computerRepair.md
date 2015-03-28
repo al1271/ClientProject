@@ -5,22 +5,26 @@ permalink: /computerRepair/
 ---
 
 <div class="home">
-
     <h1 class="page-heading">Where your computer repair needs are stratified</h1>
-
-<h2>PC Repair</h2>
-    <ul class="repairRates">
-        <li>Troubleshoot Hardware/Software</li>
-        <li>PM</li>
-        <li>Parts Installed & OS Setup</li>
-        <li>OS Install & Optimized</li>
-    </ul>
-<h2>PC Restore</h2>
-    <ul class="repairRates">
-        <li>Data recovery</li>
-        <li>Hard Drive clean up</li>
-        <li>Mal-ware removal</li>
-    </ul>
+<div class="section group">
+	<div class="col span_1_of_2">
+	<h2>PC Repair</h2>
+        <ul class="repairRates">
+            <li>Troubleshoot Hardware/Software</li>
+            <li>PM</li>
+            <li>Parts Installed & OS Setup</li>
+            <li>OS Install & Optimized</li>
+        </ul>
+	</div>
+	<div class="col span_1_of_2">
+	<h2>PC Restore</h2>
+        <ul class="repairRates">
+            <li>Data recovery</li>
+            <li>Hard Drive clean up</li>
+            <li>Mal-ware removal</li>
+        </ul>
+	</div>
+</div>
 <h2>Small business Networking</h2>
     <ul class="repairRates">
         <li>Windows Server setup</li>
